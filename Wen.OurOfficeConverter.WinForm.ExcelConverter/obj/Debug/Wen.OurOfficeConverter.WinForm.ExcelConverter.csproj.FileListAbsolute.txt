@@ -1,0 +1,17 @@
+C:\Users\Wen\Documents\Project\public\OfficeConverter\Wen.OurOfficeConverter\Wen.OurOfficeConverter.WinForm.ExcelConverter\bin\Debug\Wen.OurOfficeConverter.WinForm.ExcelConverter.exe.config
+C:\Users\Wen\Documents\Project\public\OfficeConverter\Wen.OurOfficeConverter\Wen.OurOfficeConverter.WinForm.ExcelConverter\bin\Debug\Wen.OurOfficeConverter.WinForm.ExcelConverter.exe
+C:\Users\Wen\Documents\Project\public\OfficeConverter\Wen.OurOfficeConverter\Wen.OurOfficeConverter.WinForm.ExcelConverter\bin\Debug\Wen.OurOfficeConverter.WinForm.ExcelConverter.pdb
+C:\Users\Wen\Documents\Project\public\OfficeConverter\Wen.OurOfficeConverter\Wen.OurOfficeConverter.WinForm.ExcelConverter\obj\Debug\Wen.OurOfficeConverter.WinForm.ExcelConverter.csprojResolveAssemblyReference.cache
+C:\Users\Wen\Documents\Project\public\OfficeConverter\Wen.OurOfficeConverter\Wen.OurOfficeConverter.WinForm.ExcelConverter\obj\Debug\Wen.OurOfficeConverter.WinForm.ExcelConverter.MainForm.resources
+C:\Users\Wen\Documents\Project\public\OfficeConverter\Wen.OurOfficeConverter\Wen.OurOfficeConverter.WinForm.ExcelConverter\obj\Debug\Wen.OurOfficeConverter.WinForm.ExcelConverter.Properties.Resources.resources
+C:\Users\Wen\Documents\Project\public\OfficeConverter\Wen.OurOfficeConverter\Wen.OurOfficeConverter.WinForm.ExcelConverter\obj\Debug\Wen.OurOfficeConverter.WinForm.ExcelConverter.csproj.GenerateResource.Cache
+C:\Users\Wen\Documents\Project\public\OfficeConverter\Wen.OurOfficeConverter\Wen.OurOfficeConverter.WinForm.ExcelConverter\obj\Debug\Wen.OurOfficeConverter.WinForm.ExcelConverter.exe
+C:\Users\Wen\Documents\Project\public\OfficeConverter\Wen.OurOfficeConverter\Wen.OurOfficeConverter.WinForm.ExcelConverter\obj\Debug\Wen.OurOfficeConverter.WinForm.ExcelConverter.pdb
+D:\Projects\OtherCodes\OfficeConverter\Wen.OurOfficeConverter.WinForm.ExcelConverter\bin\Debug\Wen.OurOfficeConverter.WinForm.ExcelConverter.exe.config
+D:\Projects\OtherCodes\OfficeConverter\Wen.OurOfficeConverter.WinForm.ExcelConverter\bin\Debug\Wen.OurOfficeConverter.WinForm.ExcelConverter.exe
+D:\Projects\OtherCodes\OfficeConverter\Wen.OurOfficeConverter.WinForm.ExcelConverter\bin\Debug\Wen.OurOfficeConverter.WinForm.ExcelConverter.pdb
+D:\Projects\OtherCodes\OfficeConverter\Wen.OurOfficeConverter.WinForm.ExcelConverter\obj\Debug\Wen.OurOfficeConverter.WinForm.ExcelConverter.MainForm.resources
+D:\Projects\OtherCodes\OfficeConverter\Wen.OurOfficeConverter.WinForm.ExcelConverter\obj\Debug\Wen.OurOfficeConverter.WinForm.ExcelConverter.Properties.Resources.resources
+D:\Projects\OtherCodes\OfficeConverter\Wen.OurOfficeConverter.WinForm.ExcelConverter\obj\Debug\Wen.OurOfficeConverter.WinForm.ExcelConverter.csproj.GenerateResource.Cache
+D:\Projects\OtherCodes\OfficeConverter\Wen.OurOfficeConverter.WinForm.ExcelConverter\obj\Debug\Wen.OurOfficeConverter.WinForm.ExcelConverter.exe
+D:\Projects\OtherCodes\OfficeConverter\Wen.OurOfficeConverter.WinForm.ExcelConverter\obj\Debug\Wen.OurOfficeConverter.WinForm.ExcelConverter.pdb
